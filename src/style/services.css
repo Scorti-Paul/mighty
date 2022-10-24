@@ -1,0 +1,75 @@
+.services {
+  /* margin-top: -45px; */
+}
+
+.services-hero {
+  background: #E8B5D0;
+  padding: 70px 80px 160px 160px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.services-hero h1 {
+  font-size: 5.1176470588rem;
+  width: 65%;
+}
+
+.services-hero p {
+  font-size: 1.4em;
+  width: 69%;
+  line-height: 1.4;
+  color: rgb(48, 48, 48);
+}
+
+.services-hero .services-bg {
+  margin-top: 40px;
+  position: absolute;
+  width: 70%;
+}
+
+.services-hero img {
+  width: 100%;
+}
+
+.services .main {
+  margin-top: 500px;
+}
+
+.how-we-work,
+.who-we-work-with {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.how-we-work h2,
+.who-we-work-with h2 {
+  font-size: 4em;
+}
+
+.how-we-work p,
+.who-we-work-with p {
+  font-size: 1.1em;
+  line-height: 2;
+}
+
+.quote {
+  background: #1D1D1D;
+  width: 65%;
+  margin: 0 auto;
+  padding: 30px 50px;
+}
+
+.quote h3 {
+  color: rgb(219, 219, 219);
+  font-style: italic;
+}
+
+.quote p {
+  color: #fff;
+  font-size: 1.4em;
+  line-height: 1.4;
+}
+
+.quote small {
+  color: #fff;
+}

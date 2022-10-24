@@ -1,0 +1,31 @@
+.primary-nav {
+  width: 100%;
+  height: 160px;
+  padding-left: 80px;
+  background: #134B32;
+  display: flex;
+  align-items: center;
+}
+
+.primary-nav .logo {
+  font-size: 2em;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.primary-nav ul {
+  display: flex;
+  gap: 5px;
+}
+
+.primary-nav ul li {}
+
+
+.primary-nav ul li a {
+  padding: 10px 20px;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: .8em;
+  letter-spacing: 1px;
+}

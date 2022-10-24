@@ -1,0 +1,55 @@
+.services-hero {
+  background: #F7BF00;
+}
+
+.contact-page .contact {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-page .contact h3,
+.address h3 {
+  font-size: .8em;
+
+}
+
+.contact-page .contact a,
+.address a {
+  font-size: 1.4em;
+  color: rgb(32, 32, 32);
+  border-bottom: 2px solid orange;
+}
+
+
+.contact-page .main {
+  background: #F7BF00;
+  margin-top: -40px;
+  padding: 0px 160px 120px 160px;
+}
+
+.what-to-say h2 {
+  font-size: 3em;
+}
+
+.what-to-say p {
+  width: 70%;
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+.what-to-say .c_letter {
+  transform: rotate(-1deg);
+}
+
+.what-to-say article {
+  margin-top: 90px;
+  background: #fff;
+  padding: 60px;
+  width: 50%;
+}
+
+.what-to-say article p {
+  background: #fff;
+  width: 100%;
+}
