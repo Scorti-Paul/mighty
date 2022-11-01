@@ -2,7 +2,6 @@ import { Routes, Route } from 'react-router-dom';
 import Home from './components/Home'
 import Navbar from './components/Navbar';
 import Services from './components/Services';
-// import Users from './components/Users';
 import Contact from './components/Contact';
 import PageNotFound from './components/PageNotFound';
 import FeaturedProjects from './components/FeaturedProjects';
@@ -11,6 +10,7 @@ import React from 'react';
 import ErrorBoundary from './components/ErrorBoundary';
 
 const LazyUser = React.lazy(() => import('./components/Users'))
+
 
 function App() {
   return (

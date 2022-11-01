@@ -22,7 +22,7 @@ const Contact = () => {
 
           <div className="address">
             <h3>Address</h3>
-            <a href="#">50 Louis St NW Ste 520, Grand Rapids, MI 49503</a>
+            <p>50 Louis St NW Ste 520, Grand Rapids, MI 49503</p>
           </div>
 
 
